@@ -1,0 +1,1036 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ac",
+				"ACTION_NEW\talias"
+			],
+			[
+				"me",
+				"menu\tproperty"
+			],
+			[
+				"em",
+				"employeePermissions\tproperty"
+			],
+			[
+				"nu",
+				"number\tkeyword"
+			],
+			[
+				"cl",
+				"class\tclass …"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"roe",
+				"roles\tproperty"
+			],
+			[
+				"role",
+				"roles\tproperty"
+			],
+			[
+				"A",
+				"ACTION_NEW\talias"
+			],
+			[
+				"SER",
+				"SERVICE_NAME_USER\talias"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"v",
+				"value\tparameter"
+			],
+			[
+				"p",
+				"phn1\tproperty"
+			],
+			[
+				"new",
+				"newEmployee\tparameter"
+			],
+			[
+				"exp",
+				"export\tkeyword"
+			],
+			[
+				"add",
+				"addNewEmployee\tmethod"
+			],
+			[
+				"e",
+				"email\tproperty"
+			],
+			[
+				"ph",
+				"phn2\tproperty"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fil",
+				"filter\tmethod"
+			],
+			[
+				"impo",
+				"import\timports a module …"
+			],
+			[
+				"res",
+				"restApiService\tproperty"
+			],
+			[
+				"AC",
+				"ACTION_ALL\talias"
+			],
+			[
+				"va",
+				"values\tparameter"
+			],
+			[
+				"as",
+				"assign\tmethod"
+			],
+			[
+				"comp",
+				"company_name\tproperty"
+			],
+			[
+				"ve",
+				"vendor_id\tproperty"
+			],
+			[
+				"rfq",
+				"rfq_request\tproperty"
+			],
+			[
+				"rf",
+				"rfq_request\tproperty"
+			],
+			[
+				"po",
+				"postRequest\tmethod"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"ng",
+				"ngFor\tAngular 2 ngFor Snippet"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"sy",
+				"style\tAttr"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"footer\t<footer>"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"js",
+				"json-server"
+			],
+			[
+				"rest",
+				"renderLongStackTrace\twindow.LongStackTrace"
+			],
+			[
+				"com",
+				"comm_obj\tproperty"
+			],
+			[
+				"pri",
+				"private\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ps",
+		"selected_items":
+		[
+			[
+				"ps",
+				"Git: Push"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gadd",
+				"Git: Add All"
+			],
+			[
+				"",
+				"Angular CLI: generate class"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git psh",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"ang enum",
+				"Angular CLI: generate enum"
+			],
+			[
+				"psh",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git  c",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git pll",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ge",
+				"Angular CLI: generate pipe"
+			],
+			[
+				"serv",
+				"Angular CLI: serve"
+			],
+			[
+				"gen",
+				"Angular CLI: generate component"
+			],
+			[
+				"serve",
+				"Angular CLI: serve"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/mysqli-procedural"
+	],
+	"file_history":
+	[
+		"/D/SublimeWorkSpaces/myblog.sublime-workspace",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions-dialog.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/shared/constants.globals.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/hr.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/model/class/id-n-name.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/new-permissions.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions-dialog.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/app.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/app.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/menu.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/app.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-list/new-employee.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-list/employee-list.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/rfq-form/rfq-form.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/model/interface/User.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/.angular-cli.json",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions-dialog.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/new-employee-dialog/new-employee-dialog.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/new-employee-dialog/new-employee-dialog.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/app.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/package.json",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/packages.json",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-list/employee-list.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions-dialog.component.spec.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions.component.spec.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/employee-permissions.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/hr-routing.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-permissions-dialog/user-dialog.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/site/inventry/inventry.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/site/inventry/inventry.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-list/employee-list.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/new-employee-dialog/new-employee-dialog.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/new-employee-dialog/new-employee-dialog.component.spec.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/employee-list/employee-list.component.spec.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/site/store-manager/store-manager.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/site/indent-list/indent-list.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/site/indent-list/indent-list.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/users/new-employee.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/material/material.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/users-dialog/users-dialog.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/users/users.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/users-dialog/users-dialog.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/hr/users-dialog/users-dialog.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/boq-table/boq-table.component.ts",
+		"/D/web-development/lumenApp/public/web.config",
+		"/D/web-development/lumenApp/routes/web.config",
+		"/D/work/index.html",
+		"/D/web-development/lumenApp/.env.example",
+		"/D/web-development/pdo-crud/index.php",
+		"/D/web-development/pdo-crud/config.php",
+		"/D/web-development/mysqli-procedural/config.php",
+		"/D/web-development/laravel/routes/web.php",
+		"/D/web-development/myOfficeAddin/office-addin-angular/office-add-in-angular-manifest.xml",
+		"/D/web-development/laravel/.env",
+		"/D/web-development/laravel/app/Providers/RouteServiceProvider.php",
+		"/D/web-development/laravel/routes/api.php",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/boq-table/boq-table.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/index.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/services/rest-api-service.service.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po-list/po-list.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po-track-form/po-track-form.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po-form/po-form.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/rfq-track-form/rfq-track-form.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/shared/shared.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/rfq-track-form/rfq-track-form.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/model/class/rfq-item-request.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/model/class/NewRfq.ts",
+		"/D/CodeBakerz/PickFixGo/src/app/app.component.css",
+		"/D/CodeBakerz/PickFixGo/src/app/app.component.spec.ts",
+		"/D/CodeBakerz/BoqServiceSuite/.env",
+		"/D/mariadb-10.0.20/COPYING",
+		"/D/web-development/github-pages/myblog/src/app/app.component.css",
+		"/D/web-development/github-pages/myblog/src/app/app.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/material2-app-theme.scss",
+		"/D/web-development/github-pages/myblog/src/app/app.component.html",
+		"/D/web-development/myOfficeAddin/QuarterlySalesReport/MyManifests/QuarterlySalesReportManifest.xml",
+		"/D/web-development/github-pages/myblog/src/index.html",
+		"/D/web-development/github-pages/myblog/src/styles.css",
+		"/D/web-development/html5/me/docs/styles/grid.css",
+		"/D/web-development/github-pages/myblog/src/polyfills.ts",
+		"/D/web-development/myOfficeAddin/EngineeringLookups/src/polyfills.ts",
+		"/D/CodeBakerz/server/package.json",
+		"/D/CodeBakerz/server/db.json",
+		"/D/CodeBakerz/database/package.json",
+		"/D/web-development/myOfficeAddin/excel-addins/src/app/app.component.html",
+		"/D/web-development/myOfficeAddin/excel-addins/src/main.ts",
+		"/D/web-development/myOfficeAddin/excel-addins/src/index.html",
+		"/D/web-development/myOfficeAddin/excel-addins/eng-manifest.xml",
+		"/D/web-development/myOfficeAddin/systemjs/systemjs.config.js",
+		"/D/web-development/myOfficeAddin/systemjs/systemjs-angular-loader.js",
+		"/D/web-development/myOfficeAddin/systemjs/styles.css",
+		"/D/web-development/myOfficeAddin/systemjs/main.0.ts",
+		"/D/web-development/myOfficeAddin/systemjs/index.html",
+		"/D/web-development/myOfficeAddin/systemjs/app/app.module.0.ts",
+		"/D/web-development/myOfficeAddin/first/app.js",
+		"/D/web-development/myOfficeAddin/office-addin-angular/src/polyfills.ts",
+		"/D/web-development/myOfficeAddin/systemjs/app/app.component.0.ts",
+		"/D/web-development/myOfficeAddin/EngineeringLookups/web.config",
+		"/D/web-development/blog/web.config",
+		"/D/web-development/myOfficeAddin/EngineeringLookups/EngineeringLookups.xml",
+		"//DESKTOP-TTLTBAT/myOfficeAddin2/excel-addins/package.json",
+		"/D/web-development/myOfficeAddin/new1/src/app.ts",
+		"/D/web-development/myOfficeAddin/new1/src/index.html",
+		"/D/web-development/github-pages/myblog1/src/app/app.component.html",
+		"/D/web-development/myOfficeAddin/excel-addins/node_modules/@types/office-js/index.d.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/site/indent-track-form/indent-track-form.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/app.routing.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/app-routing.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/projects/projects.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/store-manager/store-manager.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/indent-list/indent-list.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po-list/po-list.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/inventry/inventry.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/inventry/inventry.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po-list/po-list.component.css",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/indent-list/indent-list.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/po-routing.module.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/next-comp/next-comp.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/indent-form/indent-form.component.html",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/inventry/inventry.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/indent-form/indent-form.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/models/boq-item.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/models/item.model.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/po/rfq-form/rfq-form.component.ts",
+		"/D/CodeBakerz/cornea-web-app-rev2/corena/src/app/indent-list/indent-list.component.ts"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\CodeBakerz\\cornea-web-app-rev2\\corena\\src\\app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"this.employeePermissions[i].menu",
+			"this.employeePermissions[i].role",
+			"role][",
+			"j",
+			"menu][this",
+			"[this",
+			"link",
+			"roles",
+			"  //",
+			"roles",
+			"boolean",
+			"false",
+			"roles",
+			"checkbox",
+			" ",
+			"roles",
+			">{{",
+			"\"\"",
+			"<md-checkbox>",
+			"<md-checkbox",
+			"newEmployee",
+			"HEAD",
+			"head",
+			"PostNewEmployee",
+			"NewEmployeeDialogComponent",
+			"user",
+			"UserDialogComponent",
+			"user-dialog",
+			"user-dialog.component",
+			"em",
+			"[0",
+			"0",
+			"<th",
+			"employee",
+			"<td>",
+			"users-dialog",
+			"UsersDialogComponent",
+			"users-dialog",
+			"users",
+			"UsersComponent",
+			"users",
+			"25",
+			"public",
+			"id",
+			"DB",
+			"font-awesome.min.css",
+			"this.id",
+			"getSupplierDatas",
+			"supplierDatas",
+			"vendor",
+			"indent",
+			"rfq_request",
+			"indent",
+			"onApproved",
+			"save",
+			"footer-btn",
+			"style=\"height: 10vh; font-size: 25px;\"",
+			"</button>",
+			"<button>",
+			"localhost:3000",
+			"ctx",
+			"    <SupportUrl DefaultValue=\"\\\\DESKTOP-TTLTBAT\\myOfficeAddin2\\\" />",
+			"po/indent-form",
+			"IndentListComponent",
+			"IndentListComponent ",
+			"NextCompComponent",
+			"NextCompComponent ",
+			"newIndent",
+			"boqs",
+			"entropy_length",
+			"fix_pathinfo",
+			"force_redirect",
+			"extension_dir",
+			"session.",
+			"session.entropy_length",
+			"fastcgi.logging",
+			"fastcgi.impersonate",
+			"cgi.fix_pathinfo",
+			"cgi.force_redirect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"localhost:4200"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\GitHub\\mysqli-procedural"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"empp",
+				"src\\app\\hr\\employee-permissions-dialog\\employee-permissions-dialog.component.ts"
+			],
+			[
+				"emp",
+				"src\\app\\hr\\employee-permissions-dialog\\employee-permissions-dialog.component.ts"
+			],
+			[
+				"appmod",
+				"src\\app\\app.module.ts"
+			],
+			[
+				"app.c",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"app",
+				"src\\app\\app.component.html"
+			],
+			[
+				"app.com",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"new",
+				"src\\app\\hr\\employee-list\\new-employee.model.ts"
+			],
+			[
+				"rfq",
+				"src\\app\\po\\rfq-form\\rfq-form.component.html"
+			],
+			[
+				"empli",
+				"src\\app\\hr\\employee-list\\employee-list.component.ts"
+			],
+			[
+				"empmod",
+				"src\\app\\hr\\employee-list\\new-employee.model.ts"
+			],
+			[
+				"",
+				".angular-cli.json"
+			],
+			[
+				"emlist",
+				"src\\app\\hr\\employee-list\\employee-list.component.ts"
+			],
+			[
+				"empper",
+				"src\\app\\hr\\employee-permissions-dialog\\employee-permissions-dialog.component.html"
+			],
+			[
+				"empperm",
+				"src\\app\\hr\\employee-permissions-dialog\\employee-permissions-dialog.component.ts"
+			],
+			[
+				"neem",
+				"src\\app\\hr\\new-employee-dialog\\new-employee-dialog.component.html"
+			],
+			[
+				"newemp",
+				"src\\app\\hr\\new-employee-dialog\\new-employee-dialog.component.ts"
+			],
+			[
+				"emplismod",
+				"src\\app\\hr\\employee-list\\new-employee.model.ts"
+			],
+			[
+				"newe",
+				"src\\app\\hr\\employee-list\\new-employee.model.ts"
+			],
+			[
+				"emplo",
+				"src\\app\\hr\\employee-permissions-dialog\\employee-permissions-dialog.component.html"
+			],
+			[
+				"app.m",
+				"src\\app\\app.module.ts"
+			],
+			[
+				"inve",
+				"corena\\src\\app\\site\\inventry\\inventry.component.ts"
+			],
+			[
+				"new-emp",
+				"corena\\src\\app\\hr\\employee-list\\new-employee.model.ts"
+			],
+			[
+				"invent",
+				"corena\\src\\app\\site\\inventry\\inventry.component.html"
+			],
+			[
+				"employee",
+				"corena\\src\\app\\hr\\employee-list\\employee-list.component.html"
+			],
+			[
+				"employee-dia",
+				"corena\\src\\app\\hr\\new-employee-dialog\\new-employee-dialog.component.ts"
+			],
+			[
+				"storema",
+				"corena\\src\\app\\site\\store-manager\\store-manager.component.html"
+			],
+			[
+				"inventry",
+				"corena\\src\\app\\site\\inventry\\inventry.component.html"
+			],
+			[
+				"indent-li",
+				"corena\\src\\app\\site\\indent-list\\indent-list.component.html"
+			],
+			[
+				"indent-list",
+				"corena\\src\\app\\site\\indent-list\\indent-list.component.ts"
+			],
+			[
+				"inventy",
+				"corena\\src\\app\\site\\inventry\\inventry.component.ts"
+			],
+			[
+				"material.c",
+				"corena\\src\\app\\material\\material.component.ts"
+			],
+			[
+				"constants.gl",
+				"corena\\src\\app\\shared\\constants.globals.ts"
+			],
+			[
+				"app.co",
+				"corena\\src\\app\\app.component.ts"
+			],
+			[
+				"boq-ta",
+				"corena\\src\\app\\boq-table\\boq-table.component.ts"
+			],
+			[
+				"config.",
+				"web-development\\mysqli-procedural\\config.php"
+			],
+			[
+				"config.php",
+				"web-development\\pdo-crud\\config.php"
+			],
+			[
+				"index.php",
+				"web-development\\pdo-crud\\index.php"
+			],
+			[
+				"myoffice",
+				"web-development\\myOfficeAddin\\office-addin-angular\\office-add-in-angular-manifest.xml"
+			],
+			[
+				"routerserv",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"boq-table.com",
+				"corena\\src\\app\\boq-table\\boq-table.component.html"
+			],
+			[
+				"resta",
+				"corena\\src\\app\\services\\rest-api-service.service.ts"
+			],
+			[
+				"rfq-track",
+				"corena\\src\\app\\po\\rfq-track-form\\rfq-track-form.component.ts"
+			],
+			[
+				"po-track",
+				"corena\\src\\app\\po\\po-track-form\\po-track-form.component.ts"
+			],
+			[
+				"po-list",
+				"corena\\src\\app\\po\\po-list\\po-list.component.ts"
+			],
+			[
+				"boq",
+				"corena\\src\\app\\boq-table\\boq-table.component.html"
+			],
+			[
+				"indent-t",
+				"site\\indent-track-form\\indent-track-form.component.ts"
+			],
+			[
+				"store-",
+				"corena\\src\\app\\po\\store-manager\\store-manager.component.ts"
+			],
+			[
+				"shared.mo",
+				"corena\\src\\app\\shared\\shared.module.ts"
+			],
+			[
+				"proj",
+				"corena\\src\\app\\projects\\projects.module.ts"
+			],
+			[
+				"po.mo",
+				"corena\\src\\app\\po\\po.module.ts"
+			],
+			[
+				"app.r",
+				"corena\\src\\app\\app.routing.ts"
+			],
+			[
+				"app-ro",
+				"corena\\src\\app\\app-routing.module.ts"
+			],
+			[
+				"app.mo",
+				"corena\\src\\app\\app.module.ts"
+			],
+			[
+				"mater",
+				"corena\\src\\material2-app-theme.scss"
+			],
+			[
+				"po-lis",
+				"corena\\src\\app\\po\\po-list\\po-list.component.html"
+			],
+			[
+				"app-routn",
+				"corena\\src\\app\\app-routing.module.ts"
+			],
+			[
+				"po.rout",
+				"corena\\src\\app\\po\\po-routing.module.ts"
+			],
+			[
+				"app.rout",
+				"corena\\src\\app\\app.routing.ts"
+			],
+			[
+				"projects.mod",
+				"corena\\src\\app\\projects\\projects.module.ts"
+			],
+			[
+				"po.m",
+				"corena\\src\\app\\po\\po.module.ts"
+			],
+			[
+				"po.mod",
+				"corena\\src\\app\\po\\po.module.ts"
+			],
+			[
+				"next",
+				"corena\\src\\app\\next-comp\\next-comp.component.ts"
+			],
+			[
+				"projects.mo",
+				"corena\\src\\app\\projects\\projects.module.ts"
+			],
+			[
+				"projects",
+				"corena\\src\\app\\projects\\projects.module.ts"
+			],
+			[
+				"po.modu",
+				"corena\\src\\app\\po\\po.module.ts"
+			],
+			[
+				"next-com",
+				"corena\\src\\app\\next-comp\\next-comp.component.ts"
+			],
+			[
+				"project",
+				"corena\\src\\app\\projects\\projects.module.ts"
+			],
+			[
+				"app.rou",
+				"corena\\src\\app\\app-routing.module.ts"
+			],
+			[
+				"app.rot",
+				"corena\\src\\app\\app.routing.ts"
+			],
+			[
+				"app.mod",
+				"corena\\src\\app\\app.module.ts"
+			],
+			[
+				"indent-fo",
+				"corena\\src\\app\\po\\indent-form\\indent-form.component.html"
+			],
+			[
+				"indent.com",
+				"corena\\src\\app\\indent-list\\indent-list.component.html"
+			],
+			[
+				"indent",
+				"corena\\src\\app\\po\\indent-form\\indent-form.component.ts"
+			],
+			[
+				"boq-ite",
+				"corena\\src\\app\\po\\models\\boq-item.model.ts"
+			],
+			[
+				"rfq-fo",
+				"corena\\src\\app\\po\\rfq-form\\rfq-form.component.html"
+			],
+			[
+				"rfq-form",
+				"corena\\src\\app\\po\\rfq-form\\rfq-form.component.ts"
+			],
+			[
+				"indent-fr",
+				"corena\\src\\app\\po\\indent-form\\indent-form.component.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\SublimeWorkSpaces\\rest-api-lumen.sublime-workspace"
+			],
+			[
+				"cornea",
+				"D:\\SublimeWorkSpaces\\cornea-angular.sublime-workspace"
+			],
+			[
+				"lum",
+				"D:\\SublimeWorkSpaces\\lumenApp.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"last_filter": "viewProfile",
+		"selected_items":
+		[
+			[
+				"viewProfile",
+				"viewProfile"
+			],
+			[
+				"newEmployee",
+				"NewEmployee"
+			],
+			[
+				"onApproved",
+				"onApproved"
+			],
+			[
+				"boqs",
+				"getBoqList"
+			]
+		],
+		"width": 616.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
